@@ -22,8 +22,8 @@ Install the font "AdobeClean-Bold.ttf" from the script folder before use
 
 ## Usage
 
-Just run the main program and you can generate random passwords...! <br>
-<img src="./src/psswdgen.JPG" height="300px">
+Just run the main program and you can generate random passwords...! <br> <br>
+<img src="./src/psswdgen.JPG" height="400px">
 
 
 
